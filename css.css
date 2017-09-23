@@ -1,0 +1,10 @@
+body
+{
+	background-color: #fefefe;
+}
+
+table tr th, table tr td
+{
+	border-width: 1px;
+	border-style: solid;
+}
